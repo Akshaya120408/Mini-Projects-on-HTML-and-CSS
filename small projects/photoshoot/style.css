@@ -1,0 +1,71 @@
+  .box{
+    border: 10px solid black;
+    width: 500px;
+    height: 600px;
+    
+  }
+  .box h2{
+    color: rgb(9, 243, 165);
+  }
+  .box p{
+    color: brown;
+    font-style: italic;
+    font-size: larger;
+  }
+  .box button{
+    
+    color: black;
+    background-color :blueviolet;
+  }
+
+ 
+
+
+  .box1{
+    height:200px;
+    width: 200px;
+    background-color: blue;
+  }
+   .box2{
+    height:220px;
+    width: 220px;
+    background-color: pink;
+  }
+  .box3{
+    height:240px;
+    width: 240px;
+    background-color:yellow;
+    
+  }
+  .box4{
+    height:260px;
+    width: 260px;
+    background-color: brown;
+  }
+.box5{
+    height:280px;
+    width: 280px;
+    background-color: blue;
+  }
+
+
+
+.photo{
+  
+  
+  border: 10px solid black;
+  width: 500px;
+  height: 600px;
+  
+}
+.photo img{
+  padding: 40px;
+}
+.photo{
+  background-image: url(b.avif);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.photo h3{
+  color:brown;
+}

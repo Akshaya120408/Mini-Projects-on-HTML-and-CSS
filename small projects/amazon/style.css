@@ -1,0 +1,54 @@
+.amazon {
+    border: 5px solid black;
+    width: 400px;
+    height: 410px;
+    padding: 10px;
+    border-style: double;
+}
+.amazon input{
+    width: 300px;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    align-items: flex-start;
+
+}
+.amazon button{
+    width: 300px;
+    height: 40px;
+    margin: 15px 0 10px;
+    border-radius: 30px;
+    background:yellow;
+    color: black;
+}
+.amazon button:hover{
+    background :green;
+}
+.amazon span{
+    font-style: italic;
+    font-size: large;
+}
+.amazon p{
+    margin: 10px;
+    color: blue;
+    display: flex;
+    flex-direction: row;
+    font-size: larger;
+}
+.amazon h3{
+       display: flex;
+       flex-direction: row;
+}
+.amazon h4{
+       display: flex;
+       flex-direction: row;
+       font-style: italic;
+}
+.amazon h3{
+    margin-left: 50px ;
+} 
+.amazon h5{
+    color: blue;
+    display: flex;
+    flex-direction: row;
+}

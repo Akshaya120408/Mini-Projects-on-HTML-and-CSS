@@ -1,0 +1,57 @@
+.ice{
+    border: 10px solid black;
+    padding: 10px;
+    width: 500px;
+    height: 680px;
+    background-image:url(pink.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-style: double;
+    border-radius: 10px;
+}
+.rate{
+    display: flex;
+    flex-direction: row;
+    gap: 300px;
+}
+.price{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+.rate h6{
+    font-size: larger;
+}
+.rate button{
+    font-size: larger;
+    width: 70px;
+    height: 35px;
+    margin-top: 40px;
+
+}
+.price h6{
+    font-size: larger;
+}
+.price button{
+    font-size: larger;
+    width: 70px;
+    height: 25px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.price del{
+    
+    font-size: larger;
+    margin-top: 40px;
+    margin-left: 100px;
+    color: brown;
+}
+
+.ice img{
+    border-radius: 20px;
+    border-style:groove;
+}    
+.label button{
+    width: 120px;
+    height: 25px;
+}

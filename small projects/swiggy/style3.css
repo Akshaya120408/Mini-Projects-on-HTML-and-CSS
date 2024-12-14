@@ -1,0 +1,9 @@
+.food{
+    background-image: url(food.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 250px;
+    font-size: larger;
+    color:white ;
+
+}
